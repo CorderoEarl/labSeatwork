@@ -1,5 +1,5 @@
 package number4;
 
-public interface Method {
+public interface PaymentMethod {
     public void pay(double amount);
 }
